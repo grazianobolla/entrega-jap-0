@@ -7,5 +7,5 @@
 #container img {
     width: 400px;
     height: auto;
-    animation: 2s rotate360 infinite linear;
+    animation: 1s rotate360 infinite linear;
 }
